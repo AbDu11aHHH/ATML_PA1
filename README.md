@@ -11,8 +11,9 @@ cd ATML_PA1
 ```
 
 ### 2. Install Dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run The Notebooks:
 
 PA1_task1.ipynb – short description
